@@ -1,0 +1,3 @@
+fastapi
+uvicorn[standard]
+youtube-transcript-api>=0.4.7
